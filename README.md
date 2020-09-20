@@ -19,4 +19,4 @@ Algorithm:
 
 ## Solution
 
-[img]("https://drive.google.com/file/d/1C7PwOEcB1hiKvfGwj1Cjuf2at2vyUX6_/view?usp=sharing")
+[img](https://drive.google.com/file/d/1C7PwOEcB1hiKvfGwj1Cjuf2at2vyUX6_/view?usp=sharing)
